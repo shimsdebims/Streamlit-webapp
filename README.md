@@ -8,3 +8,6 @@ Tomato
 Potato
 Rice
 Maize
+
+
+Site: https://app-webapp-cropdiseasedetection.streamlit.app/ 
